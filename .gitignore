@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+env/
+venv/
+ENV/
+.venv/
+.env/
+
+# macOS
+.DS_Store
+
+# VSCode / Cursor settings
+.vscode/
+*.code-workspace
+
+# Logs and caches
+*.log
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.tmp
+
+# Output files
+output/
+*.avi
+*.mp4
+
+# Test files or large assets
+assets/*.mp4
+assets/*.mov
+assets/*.webm
+assets/*.wav
+assets/*.png
+
+# Python pip cache
+pip-wheel-metadata/
