@@ -1,6 +1,6 @@
 # Gesture Surface Input
 
-A real-time virtual keyboard and mouse using only a webcam and hand gestures.
+A real-time virtual keyboard and mouse using only a webcam and hand gestures. The primary idea is to implement and use keyboards and mouses just with visuals, and focus on reducing input delay.
 
 ## Features
 - Calibrate any flat surface as an input zone
